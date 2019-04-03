@@ -34,6 +34,9 @@ Windows & others:
 Confirm that ImageMagick is properly set up by executing `convert -help` in a terminal.
 
 ## Basic Usage
+
+Copy images into images folder
+
 ```javascript
 gulp resize
 ```
